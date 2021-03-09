@@ -1,6 +1,8 @@
 package main
+
 import "fmt"
 
-func main(){
-  fmt.Printf("\n Hello\n")
-  }
+func main() {
+	fmt.Printf("\n Hello\n")
+	fmt.Println("bye")
+}
